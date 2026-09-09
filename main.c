@@ -32,7 +32,7 @@ int main(void){
         zaslon_set_cursor(0, 0);
         zaslon_print("Voda: ");
         zaslon_printint(postotak);
-        zaslon_print("%")
+        zaslon_print("%");
 
         zaslon_set_cursor(1, 0);
         zaslon_print("Temp: ");
