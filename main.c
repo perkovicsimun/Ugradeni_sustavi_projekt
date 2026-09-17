@@ -50,10 +50,7 @@ int main(void)
         uart_println(" C");
 
 
-        if(postotak < 20)
-        {
-            pumpa_on();
-        }
+       
         if(postotak < 50)
 {
     pumpa_on();
